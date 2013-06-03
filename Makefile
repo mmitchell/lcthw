@@ -1,5 +1,4 @@
 CFLAGS=-Wall -g
 
 clean:
-	rm -r *.out
-	rm -r *.dSYM
+	rm -rf ex? ex?? *.dSYM
